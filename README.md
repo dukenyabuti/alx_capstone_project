@@ -8,18 +8,29 @@ Features and Functionality:
 
 
 Technologies Used:
-I will use HTML for the skeleton structure of my Project, Style it will CSS and Javascript to
+I will use HTML for the skeleton structure of my Project, Style it will CSS and Javascript for page response
 
 
 Screenshots or Demo:
 
+FlowChart
+![My Image](Website_Flowchart.png)
+
+Webframe:
+
+https://drive.google.com/file/d/1iLFr3zqMeXrg9wPGQPjJUEdWOkXZo99a/view?usp=sharing
+
 
 
 Roadmap and future enhancements:
+I will create a simple project for now
+in the futuure I will add more features of Software Development features, and more tech related services
 
 
 
 Contact information:
+
+Name; Duke Ogana Nyabuti
 
 Reach me on email; Dukenyabuti@gmail.com
 
